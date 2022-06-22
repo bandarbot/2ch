@@ -41,24 +41,6 @@ cp sample_config.env config.env
 bash start
 ````
 
-### Admin Commands
-
-```
-/start - mulai bot atau dapatkan postingan
-
-/batch - buat link untuk lebih dari satu posting
-
-/genlink - buat link untuk satu posting
-
-/users - lihat statistik pengguna bot
-
-/broadcast - menyiarkan/broadcast pesan apa pun ke pengguna bot
-
-/ping - untuk mengecek bot
-
-/uptime - untuk melihat waktu aktif bot
-```
-
 ### Variables
 
 * `API_HASH` Dapatkan API HASH di web my.telegram.org.
@@ -91,7 +73,6 @@ bash start
 
 * `{filename}` - file name of the Document
 * `{previouscaption}` - Original Caption
-
 
 ## Support   
 Bergabunglah di [Group Telegram ](https://www.telegram.dog/SharingUserbot) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/Lunatic0de) untu info Update bot.   
